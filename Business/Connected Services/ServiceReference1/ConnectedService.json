@@ -1,0 +1,20 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.Generic.List`1"
+    ],
+    "messageContract": true,
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "references": [
+      "C:\\Users\\anila\\OneDrive\\Masaüstü\\KODLAMA.İO\\Ödevler\\2\\MaskeTakip\\Business\\bin\\Debug\\net8.0\\Entities.dll"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "All"
+  }
+}
